@@ -8,3 +8,4 @@ This dataset is used in Section 6.3 of the paper published at SIGIR 2017.
 Complete question, answer, and an incomplete follow-up question.
 > who is the head of state of ghana?;Nana Akufo-Addo;and India?
 2. **gold.txt**: Each line contains a resolved gold question for the incomplete follow-up question.
+> who is the head of state of India?
