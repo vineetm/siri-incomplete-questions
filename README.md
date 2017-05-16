@@ -1,1 +1,1 @@
-# Incomplete follow-up question datatset for comparsion with an IPA such as SIRI
+**Incomplete follow-up questions** dataset to evaluate context resolution capabilities of an Intelligent Personal Assistant (IPA) such as [Siri](https://www.apple.com/ios/siri/)
